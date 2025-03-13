@@ -53,3 +53,4 @@ venv.bak/
 *.backup
 *.obsidian
 ._.*
+._*
