@@ -74,5 +74,5 @@ Makefile linguist-language=Makefile
 *.njk linguist-language=Nunjucks
 *.pug linguist-language=Pug
 *.mjml linguist-language=MJML
-/** linguist-documentation=false
-/** linguist-vendored=false
+TIL/** linguist-documentation=false
+TIL/** linguist-vendored=false
