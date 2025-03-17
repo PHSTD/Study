@@ -1,7 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.md linguist-detectable=true
-*.md linguist-language=cs
 ; # 웹 개발 관련 언어 감지
 ; *.html linguist-detectable=true
 ; *.htm linguist-detectable=true
